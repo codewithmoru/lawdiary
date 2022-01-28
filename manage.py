@@ -3,7 +3,7 @@
 import os
 import sys
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['lawdiary.herokuapp.com']
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
     try:
