@@ -1,1 +1,1 @@
-web: gunicorn lawnote.wsgi --log-fil
+web : gunicorn lawnote.wsgi --log-fil
